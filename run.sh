@@ -8,10 +8,10 @@
 root_dir=$PWD;
 class_full_name=$1;
 src_location=$2;
-bin_location=$3;
+bin_location=$2;
 #src_location=$PWD/$2;
 #bin_location=$PWD/$3;
-target_method=$4;
+target_method=$3;
 #evosuite_location=/Users/guneljahangirova/Documents/evosuite_oai/master/target/evosuite-#master-1.0.5-SNAPSHOT.jar;
 evosuite_location=$root_dir/tools/evosuite.jar;
 

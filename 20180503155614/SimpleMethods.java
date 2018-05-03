@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class QualificationTest {
+public class SimpleMethods {
 	
   /** Compute the minimum of two values
    * @param a first value
